@@ -13,7 +13,7 @@ import warnings
 warnings.filterwarnings('ignore')
         
 # Set style for better visualizations
-plt.style.use('seaborn-v0_8-darkgrid ')
+plt.style.use('seaborn-v0_8-darkgrid')
 sns.set_palette("husl")
 
 # Step 1: Load and preprocess the data
