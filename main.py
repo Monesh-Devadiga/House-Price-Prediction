@@ -10,7 +10,8 @@ from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 from sklearn.datasets import fetch_california_housing  # Add this import
 import warnings
-warnings.filterwarnings('ignore')      
+warnings.filterwarnings('ignore')
+
 # Set style for better visualizations
 plt.style.use('seaborn-v0_8-darkgrid')
 sns.set_palette("husl")
