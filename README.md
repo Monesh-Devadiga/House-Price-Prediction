@@ -32,6 +32,14 @@ This project implements an end-to-end machine learning pipeline for house price 
   - Model Performance Comparison
 - Identifies the best-performing regression model for house price prediction.
 
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
   
 ---------------------------------------------------------------------------------------------------------------------
 Created By: 
