@@ -52,7 +52,12 @@ This project implements an end-to-end machine learning pipeline for house price 
 7. Hyperparameter Tuning
 8. Performance Visualization
 9. Best Model Selection
-  
+
+## 📊 Results
+
+The project compares multiple machine learning regression algorithms and selects the best-performing model based on R² Score, MSE, MAE, and cross-validation performance. Ensemble methods such as Random Forest and Gradient Boosting generally achieve higher predictive accuracy than traditional linear regression models.
+
+
 ---------------------------------------------------------------------------------------------------------------------
 Created By: 
   [@Monesh Devadiga](https://github.com/Monesh-Devadiga)
