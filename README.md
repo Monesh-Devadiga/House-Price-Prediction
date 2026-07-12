@@ -40,6 +40,18 @@ This project implements an end-to-end machine learning pipeline for house price 
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+  ## ⚙️ Workflow
+
+1. Data Loading
+2. Data Preprocessing
+3. Exploratory Data Analysis
+4. Feature Scaling
+5. Model Training
+6. Model Evaluation
+7. Hyperparameter Tuning
+8. Performance Visualization
+9. Best Model Selection
   
 ---------------------------------------------------------------------------------------------------------------------
 Created By: 
