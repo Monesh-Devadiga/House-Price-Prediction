@@ -8,7 +8,7 @@ This project implements an end-to-end machine learning pipeline for house price 
 
 - Loads and preprocesses the California Housing Dataset.
 - Performs comprehensive Exploratory Data Analysis (EDA).
-- Generates correlation matrices, feature distributions, and pair plots.
+- Generates correlation matrices, feature distributions and pair plots.
 - Splits and standardizes data for model training.
 - Trains multiple regression models:
   - Linear Regression
@@ -55,7 +55,7 @@ This project implements an end-to-end machine learning pipeline for house price 
 
 ## Results
 
-The project compares multiple machine learning regression algorithms and selects the best-performing model based on R² Score, MSE, MAE, and cross-validation performance. Ensemble methods such as Random Forest and Gradient Boosting generally achieve higher predictive accuracy than traditional linear regression models.
+The project compares multiple machine learning regression algorithms and selects the best-performing model based on R² Score, MSE, MAE and cross-validation performance. Ensemble methods such as Random Forest and Gradient Boosting generally achieve higher predictive accuracy than traditional linear regression models.
 
 
 ---------------------------------------------------------------------------------------------------------------------
